@@ -1,2 +1,4 @@
 # School_works
-Here are my works, exercises, or projects realized at the school.
+Voici un exercice que j'ai réalisé à la faculté.
+Celui ci reprend les bases du Javascript
+
