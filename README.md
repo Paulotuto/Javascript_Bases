@@ -1,4 +1,4 @@
-# School_works
+# Javascript_Bases
 Voici un exercice que j'ai réalisé à la faculté.
 Celui ci reprend les bases du Javascript
 
