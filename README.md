@@ -1,2 +1,2 @@
 # School_works
-Here is my school's exercise or project.
+Here are my works, exercises, or projects realized at the school.
